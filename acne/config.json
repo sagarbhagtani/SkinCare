@@ -1,0 +1,13 @@
+{
+    "model_type": "yolov8",
+    "model_name": "acne",
+    "architecture": "yolov8",
+    "version": "1.0",
+    "description": "Acne Detection Model",
+    "author": "Tinny-Robot",
+    "license": "apache-2.0",
+    "task": "Object Detection",
+    "framework": "Ultralytics YOLOv8",
+    "tags": ["acne", "skin", "object detection", "yolov8"]
+  }
+  
